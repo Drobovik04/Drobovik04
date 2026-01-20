@@ -1,3 +1,17 @@
+### Hey there
+
+I'm Victor, a software engineer based in Belarus.
+
+Don't look at my repos, they are scared.
+
+My main tech stack is .NET, MS SQL, Unity.
+
+<!-- I’ve got a bunch of pinned projects, but my favorite is the Anime Scene Gallery.
+
+I’ve built over 100 public repos, but privately.. it’s probably more than 200 at this point. -->
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drobovik04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![codewars](https://www.codewars.com/users/misle92/badges/small)](https://www.codewars.com/users/misle92)<br>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/misle92)](https://leetcode.com/misle92)
